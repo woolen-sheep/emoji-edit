@@ -1,0 +1,164 @@
+{
+  "segments": [
+    {
+      "segment_id": "99566006-cf99-42ee-85df-db6951863e7d",
+      "max_doc": 328,
+      "deletes": null
+    },
+    {
+      "segment_id": "1be63e25-161f-4399-b230-73d71191f8aa",
+      "max_doc": 293,
+      "deletes": null
+    },
+    {
+      "segment_id": "7e468acf-b360-4e7a-9639-fb3b04fbfa0a",
+      "max_doc": 269,
+      "deletes": null
+    },
+    {
+      "segment_id": "66e48cf5-bf39-442b-9edb-8645be88bb9f",
+      "max_doc": 267,
+      "deletes": null
+    },
+    {
+      "segment_id": "b2a309cf-6b04-41ef-9bb1-e0259e91dcb5",
+      "max_doc": 267,
+      "deletes": null
+    },
+    {
+      "segment_id": "5a8d6a11-f813-43ee-bc8a-36eb0cd1d61f",
+      "max_doc": 226,
+      "deletes": null
+    },
+    {
+      "segment_id": "6e26c081-7ccb-44e8-b005-94013772a2fd",
+      "max_doc": 226,
+      "deletes": null
+    },
+    {
+      "segment_id": "1cab13be-835f-4781-a73c-2f90b3b63579",
+      "max_doc": 216,
+      "deletes": null
+    },
+    {
+      "segment_id": "87603d5b-0950-40f1-9314-39ec1a51de3d",
+      "max_doc": 215,
+      "deletes": null
+    },
+    {
+      "segment_id": "283933be-b4db-4f3f-ae73-64abeaecac4f",
+      "max_doc": 208,
+      "deletes": null
+    },
+    {
+      "segment_id": "4814e230-5ab2-4581-ad1b-81d2a6989ebb",
+      "max_doc": 207,
+      "deletes": null
+    },
+    {
+      "segment_id": "24af953e-9dc3-49a2-b34d-a70bbc0073ab",
+      "max_doc": 198,
+      "deletes": null
+    },
+    {
+      "segment_id": "50020691-72d0-48e6-96d1-1c3c45a0f111",
+      "max_doc": 188,
+      "deletes": null
+    },
+    {
+      "segment_id": "b151606c-9b22-47a2-9a9c-1a46837f2504",
+      "max_doc": 150,
+      "deletes": null
+    },
+    {
+      "segment_id": "1b46ede7-686a-465a-9352-15adcba5d864",
+      "max_doc": 146,
+      "deletes": null
+    },
+    {
+      "segment_id": "ba5b7e6a-41e5-4300-9947-6959100c6f4f",
+      "max_doc": 138,
+      "deletes": null
+    }
+  ],
+  "schema": [
+    {
+      "name": "name",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "tokenizer": "default"
+        },
+        "stored": true
+      }
+    },
+    {
+      "name": "name_zh",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "tokenizer": "CANG_JIE"
+        },
+        "stored": true
+      }
+    },
+    {
+      "name": "description",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "tokenizer": "default"
+        },
+        "stored": true
+      }
+    },
+    {
+      "name": "description_zh",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "tokenizer": "CANG_JIE"
+        },
+        "stored": true
+      }
+    },
+    {
+      "name": "aliases",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "tokenizer": "default"
+        },
+        "stored": true
+      }
+    },
+    {
+      "name": "aliases_zh",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "tokenizer": "CANG_JIE"
+        },
+        "stored": true
+      }
+    },
+    {
+      "name": "emoji",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "tokenizer": "default"
+        },
+        "stored": true
+      }
+    }
+  ],
+  "opstamp": 3558
+}
