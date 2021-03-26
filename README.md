@@ -2,11 +2,11 @@
 
 [中文|zh-CN](https://github.com/woolen-sheep/emoji-edit/blob/main/README-ZH.md)
 
-Emoji-edit is a module based on Xposed-like framework, which  can replace text with appropriate emoji symbols according to your input in any input box.
+Emoji-edit is a module relies on Xposed-like framework, which can replace text with appropriate emoji symbols according to your input in any input box.
 
 ## Dependency
 
-- Rooted  Android phone with Magisk Manager
+- Rooted Android phone with Magisk Manager
 - Riru module
 - LSPosed module
 
@@ -24,7 +24,7 @@ Emoji-edit is a module based on Xposed-like framework, which  can replace text w
 Currently, only a few systems have been tested, including
 
 - [x] H<sub>2</sub>OS		API29
-- [x] MIUI		API30
+- [x] MIUI		API28
 
 If emoji-edit runs normally on your system, you can tell us by making a comment under the discussion. 
 

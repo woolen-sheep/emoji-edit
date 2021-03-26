@@ -24,7 +24,7 @@ import de.robv.android.xposed.callbacks.XC_LoadPackage;
 import static de.robv.android.xposed.XposedHelpers.callMethod;
 
 public class HookEdit implements IXposedHookLoadPackage {
-    public static final boolean verbose = true;
+    public static final boolean verbose = false;
 
     @Override
     public void handleLoadPackage(XC_LoadPackage.LoadPackageParam lpparam) throws Throwable {

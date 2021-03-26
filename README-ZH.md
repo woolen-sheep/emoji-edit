@@ -22,7 +22,7 @@ emoji-edit是一个基于Xposed类框架的插件，能够在任何输入框中�
 目前仅有较少的系统经过测试，包括
 
 - [x] H<sub>2</sub>OS		API29
-- [x] MIUI		API30
+- [x] MIUI		API28
 
 如果emoji-edit在您的系统上正常运行，你可以在discussion下回复。
 
