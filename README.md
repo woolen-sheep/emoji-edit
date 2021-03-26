@@ -4,13 +4,13 @@
 
 Emoji-edit is a module based on Xposed-like framework, which  can replace text with appropriate emoji symbols according to your input in any input box.
 
-## 依赖
+## Dependency
 
 - Rooted  Android phone with Magisk Manager
 - Riru module
 - LSPosed module
 
-## 使用教程
+## Quick Start
 
 - Download the apk in Release and install it
 - Activate the emoji-edit module in the LSPosed manager
@@ -19,7 +19,7 @@ Emoji-edit is a module based on Xposed-like framework, which  can replace text w
 - Allow emoji-edit to start automatically in the application information, and lock emoji-edit in the background
 - Enjoy it
 
-## 兼容性
+## Compatibility
 
 Currently, only a few systems have been tested, including
 
