@@ -2,6 +2,8 @@
 
 emoji-edit是一个基于Xposed类框架的插件，能够在任何输入框中根据你的输入将文本替换成合适的emoji符号。
 
+![1](img/1.gif)
+
 ## 依赖
 
 - 已Root并安装了Magisk的安卓手机
